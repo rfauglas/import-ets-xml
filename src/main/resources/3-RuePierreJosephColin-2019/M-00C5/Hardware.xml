@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.0.1217.9763" xmlns="http://knx.org/xml/project/12">
+  <ManufacturerData>
+    <Manufacturer RefId="M-00C5">
+      <Hardware>
+        <Hardware Id="M-00C5_H-KNX.20IP.20Interface.20730-1" Name="KNX IP Interface 730" SerialNumber="KNX IP Interface 730" VersionNumber="1" BusCurrent="1.0000000e+001" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730" Text="KNX IP Interface 730" OrderNumber="KNX IP Interface 730" IsRailMounted="1" WidthInMillimeter="3.6000000e+001" DefaultLanguage="de-DE" Hash="OTITYHTW2KRR/8N1Vb9A+1Jqr/o=" NonRegRelevantDataVersion="0">
+              <Attributes>
+                <Attribute Id="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-CatalogName" Name="CatalogName" Value="KNX IP Interface 730" />
+                <Attribute Id="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-Colour" Name="Colour" Value="grau" />
+              </Attributes>
+              <RegistrationInfo RegistrationStatus="Certified" RegistrationSignature="c0z3ikPnm/dS/J5GcA9mq4DTqxqAoDSanYxJ46spCiFe/ajSYWGTM9etyuVlJwb1/OSmOt0TcIxMiHK1CeHToXYK0AqFZUgmkRBw5szI2NqLPytc477DRZF9IVY84+aaxUTGO7SGLoo/e5KDGn/lHCIajWQT6WMfeZX4i3igdLs=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-00C5_H-KNX.20IP.20Interface.20730-1_HP-0702-10-1B22" MediumTypes="MT-0" Hash="k68Ys6+KEvpCMPbUpSvcO2dhxR8=">
+              <ApplicationProgramRef RefId="M-00C5_A-0702-10-1B22" />
+              <RegistrationInfo RegistrationSignature="uqkZ0vO7Xe8b+mR/XzAeaqpDON4zTbhLwqD1VPOtopDiQObOlHJ7hnZ06cGZJDSLmfajH2pNJ8kalQBN7sHIs+Bnt7Mo0tqzyJJhByo0wXUpz75ZRbBdCw9HSP5CduJlSMVZ4pfLm4fgtuVp3q643mnRnEusELPUaQTYn05JdZQ=" OriginalRegistrationNumber="1900/0" RegistrationNumber="2006/7523" RegistrationStatus="Certified" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+      </Hardware>
+      <Languages>
+        <Language Identifier="de-DE">
+          <TranslationUnit RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+              <Translation AttributeName="Text" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-CatalogName">
+              <Translation AttributeName="Value" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-Colour">
+              <Translation AttributeName="Value" Text="grau" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="en-US">
+          <TranslationUnit RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+              <Translation AttributeName="Text" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-CatalogName">
+              <Translation AttributeName="Value" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-Colour">
+              <Translation AttributeName="Value" Text="gray" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="fr-FR">
+          <TranslationUnit RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730">
+              <Translation AttributeName="Text" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-CatalogName">
+              <Translation AttributeName="Value" Text="KNX IP Interface 730" />
+            </TranslationElement>
+            <TranslationElement RefId="M-00C5_H-KNX.20IP.20Interface.20730-1_P-KNX.20IP.20Interface.20730_AT-Colour">
+              <Translation AttributeName="Value" Text="gris" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CreatedBy="ETS5" ToolVersion="5.0.1217.9763" xmlns="http://knx.org/xml/project/12">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0009">
+      <Hardware>
+        <Hardware Id="M-0009_H-9.20.2F.2F.20TXA207C-1" Name="TXA207C Module 10 sorties 16A" SerialNumber="9 // TXA207C" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2" Text="10 sorties 16A éclairage volet roulant/store" OrderNumber="TXA207C - a2" IsRailMounted="1" DefaultLanguage="fr-FR" Hash="wgMtuLmaUYL5Dx7uGJ3HIcxmNEg=" NonRegRelevantDataVersion="0">
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationSignature="sqHhrymi/3mmhQpbaAuWdLfLJVVYflHgy5Oq24ksvnIAaVMOpaZGfpUNOibC7dk/Ahm0TblS/M1oWKDs3mBXHkdtnsBNbTlquOHCZNw+pftCGAms0qcCn4jyLma3thBjnPQCux9UKQMml2/dLGMP7P/7NyL5Ud2iCYJKxN47Vz8=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-0009_H-9.20.2F.2F.20TXA207C-1_HP-2075-30-7D6B" MediumTypes="MT-0" Hash="cSI5O929lKUrXBIbDszGByxc9nc=">
+              <ApplicationProgramRef RefId="M-0009_A-2075-30-7D6B" />
+              <RegistrationInfo RegistrationSignature="Jxdql3vRPFYk1TO009udCoMWeRDPm+LSRMn+nBsNUmYAJBZ/3fSX3xzWQBRqOfhb6gJypQupbSz/K5kn6ePaf9fIN/VdjDEkLDikikQ7Het6O39MCsVD5IUVZ3Jri8eIJtyTdPI+zp0/+nkj4LOl5ETcSvBbQc2mxOwS3vdCnmg=" RegistrationNumber="2008/8525" RegistrationStatus="Registered" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-0009_H-9.20.2F.2F.20TXA213N-1" Name="TXA213N Variateur 3x 300W" SerialNumber="9 // TXA213N" VersionNumber="1" BusCurrent="4.0000000e+000" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N" Text="Variateur 3x 300W" OrderNumber="TXA213N" IsRailMounted="1" WidthInMillimeter="0.0000000e+000" DefaultLanguage="fr-FR" Hash="LVxIe/9UNJRs0oKCQtc7cTtEv9g=" NonRegRelevantDataVersion="0">
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationSignature="i/e8LPY1M6p6EiC+/7S+9kB0fu4WqD+cNBcZuEgNN+jfSKI4UoZneyzMZYkf8fhqqKF1/rYI1CoyYFgGVd1qw9NvNCEhnhl2L0MYmJQyCgcpb4R9V1eK2QBPwNeNw1haRC27cvwHDxLC0avbIIbQkb0FuF6a1H/+zv/WpnWsugs=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-0009_H-9.20.2F.2F.20TXA213N-1_HP-209A-11-3177" MediumTypes="MT-0" Hash="xvCBfwcE6wlUuwzcUfEw4dJpOEY=">
+              <ApplicationProgramRef RefId="M-0009_A-209A-11-3177" />
+              <RegistrationInfo RegistrationSignature="sG5hSwptAs09nT6CXHwxUO+Oe3XT6fdgZQw29K+LJByBKP0vE6WeGYoxIP/HR1ovibZqtQflSmNxAkuw6Fa36y5uSCtoXLJ7BSkspsPzamf2aVchi9uGHsPE7m4Cia2xPJuawqPr7OCUIVKbqy7RB84fH5u5wa6dTaEJwVykdSk=" RegistrationDate="2014-07-29" RegistrationNumber="2014/11649" RegistrationStatus="Registered" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+        <Hardware Id="M-0009_H-9.20.2F.2F.20TXA228-1" Name="TXA228 8 sorties volets/stores 230V~" SerialNumber="9 // TXA228" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+          <Products>
+            <Product Id="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2" Text="8 sorties volets/stores 230V AC" OrderNumber="TXA228 - a2" IsRailMounted="1" DefaultLanguage="fr-FR" Hash="/WLz1AqfUoQcZxXF7Zfvbsnncsg=" NonRegRelevantDataVersion="0">
+              <RegistrationInfo RegistrationStatus="Registered" RegistrationSignature="U4J9BwcA6vUdcpuAStnJq4iJyEYymndfbB94w1wQI0gWoArbjPcuVAY7VNzfzrpAf2+dpIp+tzpwfKEAK38VCsaBQYH+4kt10G03P+Qe6uLq1xtj2QhYlLbPuBXHSJ7Q6/J9zJvNId1c8DX6JjOHApsiokToOW/2gEdkHXQL61E=" />
+            </Product>
+          </Products>
+          <Hardware2Programs>
+            <Hardware2Program Id="M-0009_H-9.20.2F.2F.20TXA228-1_HP-2071-30-DE73" MediumTypes="MT-0" Hash="vfq+nLv0la+EoKqbtCCbe7EVdBg=">
+              <ApplicationProgramRef RefId="M-0009_A-2071-30-DE73" />
+              <RegistrationInfo RegistrationSignature="tMYVIBRNbNvOX/zTzz0v23eV8wfgkvqsLeFM4jtBHlbywW8CWkflwCi+wbkHVpJwfBxnmtLDgcnqGJNhO9PwoMx7fc2Tm3SkkLtoWxQ/+aLHCp3jNPHJhW4QkAbc2aUU/Xyim0ONQkNkctr+H2YKHR+NKCSpCqq7n1sMMGJHQfg=" RegistrationNumber="2008/8534" RegistrationStatus="Registered" />
+            </Hardware2Program>
+          </Hardware2Programs>
+        </Hardware>
+      </Hardware>
+      <Languages>
+        <Language Identifier="da-DK">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Lysdæmper 3x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="de-DE">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+              <Translation AttributeName="Text" Text="Schaltausgang 10fach 16A Beleucht. Rolllad./Jal." />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Dimmaktor 3-fach 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+              <Translation AttributeName="Text" Text="Jalousienausgang 8fach, 230V AC" />
+              <Translation AttributeName="VisibleDescription" Text="8fach Beleuchtung und Rollladen/Jalousie" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="en-US">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+              <Translation AttributeName="Text" Text="10-output module 16A Lighting Shutter and Blinds" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Dimmer 3x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+              <Translation AttributeName="Text" Text="8-output device for blinds/shutters 230V AC" />
+              <Translation AttributeName="VisibleDescription" Text="Output 8-fold shutters/blinds" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="es-ES">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+              <Translation AttributeName="Text" Text="8 persianas lamas 230V~" />
+              <Translation AttributeName="VisibleDescription" Text="8 persianas lamas" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="es-MX">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Regulador 3x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="fr-FR">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA207C-1_P-TXA207C.20.2D.20a2">
+              <Translation AttributeName="Text" Text="10 sorties 16A éclairage volet roulant/store" />
+            </TranslationElement>
+          </TranslationUnit>
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA228-1_P-TXA228.20.2D.20a2">
+              <Translation AttributeName="Text" Text="8 sorties volets/stores 230V AC" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="it-IT">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Variatore 3x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="nl-NL">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Dimmer 3 x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+        <Language Identifier="pt-PT">
+          <TranslationUnit RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+            <TranslationElement RefId="M-0009_H-9.20.2F.2F.20TXA213N-1_P-TXA213N">
+              <Translation AttributeName="Text" Text="Variador 3x 300W" />
+            </TranslationElement>
+          </TranslationUnit>
+        </Language>
+      </Languages>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

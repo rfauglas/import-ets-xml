@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<datapoints xmlns:b="http://knx.org/xml/project/12">
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Mézanine">
+      <knxAddress type="group">1</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Louane">
+      <knxAddress type="group">3</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Dressing">
+      <knxAddress type="group">8</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Sdb plafond">
+      <knxAddress type="group">7</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Sdb miroir">
+      <knxAddress type="group">6</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Buanderie">
+      <knxAddress type="group">4</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Yanaelle">
+      <knxAddress type="group">2</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Sas sdb">
+      <knxAddress type="group">5</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cuisine - plan de travail">
+      <knxAddress type="group">2051</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Grenier">
+      <knxAddress type="group">9</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Vestibule">
+      <knxAddress type="group">2048</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cuisine - îlot">
+      <knxAddress type="group">2050</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="WC">
+      <knxAddress type="group">2049</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Terrasse étage">
+      <knxAddress type="group">10</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Salon">
+      <knxAddress type="group">2058</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Sas - bureau">
+      <knxAddress type="group">2053</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cuisine mur">
+      <knxAddress type="group">2052</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Salle d'eau - douche">
+      <knxAddress type="group">2055</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Bureau">
+      <knxAddress type="group">2056</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cave">
+      <knxAddress type="group">2060</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Terrasse">
+      <knxAddress type="group">2059</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Salle d'eau - miroir">
+      <knxAddress type="group">2054</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Séjour">
+      <knxAddress type="group">2057</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Séjour - brightness">
+      <knxAddress type="group">2063</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cage d'escalier - brightness">
+      <knxAddress type="group">16</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Isaronan - brightness">
+      <knxAddress type="group">15</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Cage d'escalier">
+      <knxAddress type="group">12</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Isaronan">
+      <knxAddress type="group">11</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Store verrière">
+      <knxAddress type="group">17</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Store verrière - stop">
+      <knxAddress type="group">18</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Fenêtre paroi escalade">
+      <knxAddress type="group">19</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Fenêtre paroi escalade - stop">
+      <knxAddress type="group">20</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Volet est">
+      <knxAddress type="group">2062</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.001" priority="Low" name="Volet est stop">
+      <knxAddress type="group">2065</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+   <datapoint stateBased="true" mainNumber="1" dptID="1.010" priority="Low" name="Volet ouest stop">
+      <knxAddress type="group">2064</knxAddress>
+      <expiration timeout="0"/>
+      <updatingAddresses/>
+      <invalidatingAddresses/>
+   </datapoint>
+</datapoints>
